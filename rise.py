@@ -1,3 +1,3 @@
 print("Rise and Shine")
 print("Let's get it started!")
-print("update 3)
+print("update 3")
