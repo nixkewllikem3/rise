@@ -75,3 +75,25 @@ Ordered Lists
  3. trailing 
   
 
+
+>🎸 Play more music
+
+>👩 Code more stuff
+
+
+- First item
+- Second item
+- Third item
+  - Indented item
+  - Indented item
+- Fourth item
+
+This is a\
+line break
+
+## Tables 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $0000 |
+| col 2 is |    centered   |   $00 |
+| col 3 is | right-aligned |    $0 |
