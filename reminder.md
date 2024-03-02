@@ -13,7 +13,7 @@ reminder.md
 var increment = function (num) { return num + 1; };
 ```
 
-[link to more info in this readme.md!](readme.md)
+[link to more info in this readme.md!](README.md)
 
 # h1 Heading *--)
 ## h2 Heading
